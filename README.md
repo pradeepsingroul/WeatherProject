@@ -12,7 +12,7 @@ there is only one user : user who can search weather for particular location.
 
 
 ## Features
- - user can search weather details for particular location and particular date project will return weather details for that locations
+ - user can search weather details for particular location and particular date, project will return weather details for that locations
 
 
 ## API Reference
@@ -86,7 +86,6 @@ spring.web.resources.add-mappings=false
 spring.mvc.pathmatch.matching-strategy = ANT_PATH_MATCHER
 
 ```
-
 ### Swagger UI - Link
 
 Use this link after deploying the application on your localhost.
