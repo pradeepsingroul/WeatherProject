@@ -91,7 +91,7 @@ spring.mvc.pathmatch.matching-strategy = ANT_PATH_MATCHER
 
 Use this link after deploying the application on your localhost.
 ```swagger
-http://localhost:8080/swagger-ui/index.html
+http://localhost:8080/swagger-ui
 ```
 
 ## Authors
