@@ -5,7 +5,7 @@ import com.FrightBox.Model.Weather;
 
 import com.FrightBox.Services.LocaltionServices;
 import com.FrightBox.Services.WeatherDetailsService;
-import jakarta.validation.Valid;
+import javax.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

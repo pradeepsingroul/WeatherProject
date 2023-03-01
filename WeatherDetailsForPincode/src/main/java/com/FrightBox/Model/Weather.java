@@ -2,8 +2,8 @@ package com.FrightBox.Model;
 
 
 
-import jakarta.annotation.Nullable;
-import jakarta.persistence.*;
+
+import javax.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
